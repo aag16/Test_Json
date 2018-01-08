@@ -1,0 +1,40 @@
+{
+   "var": [{
+
+"commercialName" : " abcd",
+"legalName" : "efgh", 
+"email" : "email 1234",
+"city" : "city 1234",
+"country" : "country 1234",
+"phoneNumber" : "phoneNumber 1234",
+"contact" : "contat 1234",
+"marketPercent" : 74,
+"auditPercent" : 60,
+"expiryPercent" : 50,
+ "groups": [
+  {
+    "idGroup": 1001,
+   "title": "title1",
+    "percent": 50,
+    "orden": 1
+},
+{
+    "idGroup": 1002,
+   "title": "title2",
+    "percent": 40,
+    "orden": 2
+},
+{
+    "idGroup": 1003,
+   "title": "title3",
+    "percent": 30,
+    "orden": 3
+}]
+
+
+
+
+   }]
+  
+}
+
